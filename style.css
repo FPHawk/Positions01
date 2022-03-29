@@ -1,0 +1,26 @@
+div{
+  border: 2px solid #ccc;
+  padding: 20px 20px 40px 20px;
+  margin-top: 40px;
+  border-radius: 50px;
+}
+
+p{
+  background: #e7e7e7;
+  border: 2px solid #ccc;
+  padding: 20px;
+}
+
+span{
+  position: relative;
+  top: -30px;
+  border: 1px solid green;
+  padding: 20px;
+  background-color: #cccc;
+  border-radius: 50px;
+  margin-left: 20px;
+}
+
+/* position: fixed = Fixa o elemento na tela
+top, right, left, bottom = Define o posicionamento dos elementos
+position: absolute = É posicionado conforme o elemento pai ( se estiver com um posicionamento diferente do padrão ) */
